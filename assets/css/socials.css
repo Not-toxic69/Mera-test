@@ -26,11 +26,12 @@
     .fsm{
         font-size: 12px;
     }
+   
     
   }
-  @media(max-width: 450px) {
+  @media(max-width: 410px) {
      .mrg1{
-        margin-top: 160px!important;
+        margin-top: 250px!important;
     }
 
   }
