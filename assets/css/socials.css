@@ -15,10 +15,15 @@
 
     background:#eb8822;
 }
-
+.fsm{
+    font-size: 20px;
+}
 @media (max-width: 500px) {
     .wrapper {
         width: 350px;
+    }
+    .fsm{
+        font-size: 12px;
     }
   }
 
