@@ -5,7 +5,7 @@
         x = setInterval(function() {    
             var d = new Date();
             var days = 7 - d.getDay();
-            var hours = 24 - d.getHours();
+            var hours = 24 - d.getHours()-3;
             var min = 60 - d.getMinutes();
             if((min + '').length == 1){
               min = '0' + min;
